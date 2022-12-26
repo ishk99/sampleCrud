@@ -1,0 +1,12 @@
+Routing used for components:
+
+1. For URL / default routing we use BrowserRouter from react-router-dom
+2. Wrap the whole app with it.
+3. Use Route on components to create a path-- Change of URL changes the component
+4. To make the tabs clickable - use NavLink
+Wrap components in the NavBar with NavLink and in the "to" property metion the route
+
+
+Adding User Through FrontEnd Form -- AddUser component
+1. We want to store the data from the form to the backend.
+2. Collect the data and make an API for it and then save it to backend.
