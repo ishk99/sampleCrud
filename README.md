@@ -1,1 +1,1 @@
-# sampleCrud
+# CRUD Application using MERN Stack
